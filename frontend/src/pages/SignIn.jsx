@@ -77,7 +77,7 @@ export default function SignIn() {
             <p className="mt-2 text-sm text-gray-600">
               Don&#x27;t have an account?
               <a
-                href="/sign-up"
+                href="/signup"
                 title=""
                 className="font-semibold text-black ml-1 transition-all duration-200 hover:underline"
               >
